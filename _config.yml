@@ -3,7 +3,7 @@
 title: chan+sama
 locale: en_US
 description: black cat crew
-logo: site-logo.png
+logo: cslogo.png
 search: true
 url: http://chanandsama.com
 
@@ -36,9 +36,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Chan and Sama
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: cs@chanandsama.com
   disqus-shortname:
   twitter: #username
   facebook: #username
