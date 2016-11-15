@@ -3,14 +3,20 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Kushilog
+  url: /log/
 
-- title: Blog
-  url: /blog/
+- title: Kurobako
+  url: /kurobako/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Shirokoto
+  url: /shirokoto/
+
+- title: Nyoobs
+  url: /game/
+
+- title: Rorotaku
+  url: /anime/
 
 - title: Search
   url: /search/
