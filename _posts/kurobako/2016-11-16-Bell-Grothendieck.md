@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bell-Grothendieck Inequalities
+post_author: Geoff Blair
+post_gravatar: 76dbcc74021b8039f14c7b583978b56d
 categories: kurobako
 ---
 
