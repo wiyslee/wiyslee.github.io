@@ -8,22 +8,22 @@ categories: kurobako
 
 In response to the infamous EPR paradox, Bell showed that no theory (hidden variable or otherwise) positing locality could produce the correlations theoretically possible in quantum theory. That is, "No physical theory of local hidden variables can ever reproduce all of the predictions of quantum mechanics." (Or a superdeterministic theory with information traveling instantaneously can reproduce it.)
 
-\begin{thm}
-	{\bf Bell's Inequality.} If $a,b,c$ are unit vectors along which a spin measurement is made on an entangled pair of spin-1/2 particles in the spin singlet state, such that parallel measurements are completely anticorrelated, then a local hidden variable theory must yields correlations satisfying:
-	$$\rho(a,c) - \rho(b,a) - \rho(b,c) \leq 1$$
-	where $\rho(a,b) = \langle A(a,\lambda)\cdot B(b,\lambda)\rangle$ and $A, B$ are the measurement devices. 
-\end{thm}
+**Bell's Inequality.** If $$a,b,c$$ are unit vectors along which a spin measurement is made on an entangled pair of spin-1/2 particles in the spin singlet state, such that parallel measurements are completely anticorrelated, then a local hidden variable theory must yields correlations satisfying:
+
+$$\rho(a,c) - \rho(b,a) - \rho(b,c) \leq 1$$
+
+where $$\rho(a,b) = \langle A(a,\lambda)\cdot B(b,\lambda)\rangle$$ and $$A, B$$ are the measurement devices. 
 
 While the Bell inequality was a very deep result, it eluded experimental verification for a while because of the requirement of complete anticorrelation (i.e. ideal spin singlet). Moreover, as Bell noted in his original paper, Bell's inequality does not exclude the following options:
 
-1) A local hidden variable theory for a single particle: {\bf entanglement} is entirely necessary.
+1) A local hidden variable theory for a single particle: **entanglement** is entirely necessary.
 
-2) A hidden variable theory that is explicitly nonlocal: that is, Bell's inequality does not exclude hidden variable theories more generally, but requires that the measurement in one detector be allowed to depend on the setting (unit vector $a,b$) of the other detector. This would imply superluminal information transfer.
+2) A hidden variable theory that is explicitly nonlocal: that is, Bell's inequality does not exclude hidden variable theories more generally, but requires that the measurement in one detector be allowed to depend on the setting (unit vector $$a,b$$) of the other detector. This would imply superluminal information transfer.
 
-\begin{thm}
-	{\bf CHSH Inequality.} In the same setup as Bell, let $a,a'$ be unit vectors along which measurement is made in the $A$ detector, and $b,b'$ for the $B$ detector. Then, a local hidden variable theory implies:
-	$$|\rho(a,b) - \rho(a,b') + \rho(a',b) + \rho(a',b')| \leq 2$$
-\end{thm}
+**CHSH Inequality.** In the same setup as Bell, let $$a,a'$$ be unit vectors along which measurement is made in the $$A$$ detector, and $$b,b'$$ for the $$B$$ detector. Then, a local hidden variable theory implies:
+
+$$|\rho(a,b) - \rho(a,b') + \rho(a',b) + \rho(a',b')| \leq 2$$
+
 
 While the CHSH inequality improves upon Bell's for the purposes of experimental physics (since no perfect spin singlet is necessary), it is still not very general. It turns out that Bell's inequalities can be represented as {\bf linear inequalities on observables} rather than depending on particular states. In particular, the CHSH inequality generalizes as:
 
