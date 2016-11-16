@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Blargh
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
