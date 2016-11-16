@@ -45,7 +45,7 @@
     @include media($medium) {
       width: 150px;
       height: 150px;
-      @include rounded(150px); /* crops in a circle */
+      /*@include rounded(150px);*/ /* crops in a circle */
     }
 
     @include media($large) {
