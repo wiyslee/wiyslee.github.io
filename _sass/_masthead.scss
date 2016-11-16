@@ -49,9 +49,9 @@
     }
 
     @include media($large) {
-      width: 200px;
-      height: 200px;
-      @include rounded(200px); /* crops in a circle */
+      width: 400px;
+      height: 400px;
+      /*@include rounded(200px);*/ /* crops in a circle */
     }
   }
 }
