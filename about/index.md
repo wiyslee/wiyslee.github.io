@@ -4,4 +4,4 @@ title: chanandsama?
 excerpt: "chanandsama is love"
 ---
 Hello! 
--> Welcome to **chanandsama**! <-
+<center> Welcome to <b>chan+sama</b>! </center>
