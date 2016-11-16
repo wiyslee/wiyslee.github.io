@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Adventures of Chan and Sama
+title: The Adventures of <br>Chan and Sama
 excerpt: "The Adventures of chan and sama sorted by date."
 search_omit: true
 ---
