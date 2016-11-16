@@ -1,6 +1,6 @@
 ---
 layout: page
-title: chan+sama
+title: dar&eacute; desu?
 excerpt: "chan+sama is love"
 --- 
 <center>Hello!<br> Welcome to <b>chan+sama</b>! </center>
