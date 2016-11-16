@@ -3,5 +3,6 @@ layout: page
 title: chanandsama?
 excerpt: "chanandsama is love"
 ---
-
-Hello! Welcome to **chanandsama**!
+<center>
+Hello! 
+Welcome to **chanandsama**!
