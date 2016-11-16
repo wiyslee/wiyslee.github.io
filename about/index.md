@@ -1,7 +1,6 @@
 ---
 layout: page
-title: chanandsama?
-excerpt: "chanandsama is love"
----
-Hello! 
-<center> Welcome to <b>chan+sama</b>! </center>
+title: chan+sama
+excerpt: "chan+sama is love"
+--- 
+<center>Hello!<br> Welcome to <b>chan+sama</b>! </center>
