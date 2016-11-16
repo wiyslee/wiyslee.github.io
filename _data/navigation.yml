@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Dar&eacute;?
-  url: /about/
+  url: /dare/
 
 - title: Kushilog
   url: /kushi/
@@ -13,10 +13,10 @@
   url: /shirokoto/
 
 - title: Nyoobs
-  url: /game/
+  url: /nyoobs/
 
 - title: Rorotaku
-  url: /anime/
+  url: /rorotaku/
 
 - title: Search
   url: /search/
