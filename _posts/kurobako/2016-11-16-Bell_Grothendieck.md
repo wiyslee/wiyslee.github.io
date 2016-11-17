@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: kurobako
-author: Kurochan
+author: kurochan
 title: 'Tsirelson’s Theorem & Grothendieck’s Inequality'
 ---
 
