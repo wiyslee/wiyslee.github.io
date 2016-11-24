@@ -3,6 +3,7 @@ layout: post
 categories: nyoobs
 author: kurochan
 title: 'Overwatch Concept: Bladedancer'
+excerpt: Imagine a flurry of blades slicing everything at the heart of Lijiang Tower's garden, the blades' owner moving so fast that the eye can't keep up.
 ---
 
 Imagine a flurry of blades slicing everything at the heart of Lijiang Tower's garden, the blades' owner moving so fast (think epic anime fight scene here) that the eye can't keep up. For a few, fleeting, beautiful seconds, the *Bladedancer* is effectively invincible, though perhaps not technically so, through his sheer martial prowess and speed.
