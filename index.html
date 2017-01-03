@@ -12,10 +12,10 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} 
     <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
     {% if post.excerpt %} 
-      <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
+      <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %} </a>
     {% if post.categories %} 
-      <span class="category">{{ post.categories }} {% endif %} </span>
-    </a></article></li>
+      <a href="{{ site.url }}/{{ post.categories }}"><span class="category">{{ post.categories }}</span></a> {% endif %}
+    </article></li>
   {% endunless %}
   {% endunless %}
 {% endfor %}
