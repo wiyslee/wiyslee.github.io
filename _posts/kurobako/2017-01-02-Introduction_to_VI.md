@@ -133,13 +133,7 @@ deriving the complete conditional $E_{-j}[\log p(z_j|z_{-j},x)]$ is
 often non-trivial for many problems, and involves the majority of the
 work in formulating the VI method for a given problem.
 
-<span>9</span>
+<span>References</span>
 
 D. M. Blei, A. Kucukelbir, and J. D. McAuliffe, “Variational Inference:
 A Review for Statisticians,” arXiv: 1601.0067.
-
-A. Grothendieck, “R´esum´e de la th´eorie m´etrique des produits
-tensoriels topologiques” (French), Bol. Soc. Mat. Sao Paulo 8, 1–79
-(1953).
-
-G. Pisier, “Grothendieck’s theorem, past and present”, arXiv.
