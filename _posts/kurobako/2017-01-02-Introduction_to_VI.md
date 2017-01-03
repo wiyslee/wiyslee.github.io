@@ -11,7 +11,7 @@ Introduction
 
 This article is dedicated to providing an introduction to
 <span>**variational inference (VI)**</span>. It will closely follow the
-presentation of [@vi], but seeks to provide a more condensed,
+presentation of Blei et al., but seeks to provide a more condensed,
 to-the-point exposition for those interested in quickly diving into the
 subject area.
 
