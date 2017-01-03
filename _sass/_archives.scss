@@ -54,6 +54,12 @@
       width: 60%;
     }
   }
+
+  /* post category */
+  .category {
+    @include font-size(14, no)
+    display: none;
+  }
 }
 
 /*
