@@ -42,7 +42,7 @@
 
   /* post excerpt */
   .excerpt {
-    display: block;
+    display: inline;
     float: none;
     @include font-size(14, no, 16);
 
@@ -57,8 +57,8 @@
 
   /* post category */
   .category {
-    @include font-size(14, no)
-    display: none;
+    @include font-size(20, no)
+    display: inline;
   }
 }
 
