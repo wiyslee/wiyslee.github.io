@@ -1,0 +1,76 @@
+\documentclass[psamsfonts]{amsart}
+
+%-------Packages---------
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage[all,arc]{xy}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+
+%--------Theorem Environments--------
+%theoremstyle{plain} --- default
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{conj}[thm]{Conjecture}
+\newtheorem{quest}[thm]{Question}
+
+\theoremstyle{definition}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{defns}[thm]{Definitions}
+\newtheorem{con}[thm]{Construction}
+\newtheorem{exmp}[thm]{Example}
+\newtheorem{exmps}[thm]{Examples}
+\newtheorem{notn}[thm]{Notation}
+\newtheorem{notns}[thm]{Notations}
+\newtheorem{addm}[thm]{Addendum}
+\newtheorem{exer}[thm]{Exercise}
+
+\theoremstyle{remark}
+\newtheorem{rem}[thm]{Remark}
+\newtheorem{rems}[thm]{Remarks}
+\newtheorem{warn}[thm]{Warning}
+\newtheorem{sch}[thm]{Scholium}
+
+\makeatletter
+\let\c@equation\c@thm
+\makeatother
+\numberwithin{equation}{section}
+
+\bibliographystyle{plain}
+
+\DeclareMathOperator{\Tr}{Tr}
+
+%--------Meta Data: Fill in your info------
+\title{Statistical Analysis of Medical Data}
+
+\author{Won I. Lee}
+
+%\date{DEADLINES: Draft AUGUST 18 and Final version AUGUST 29, 2013}
+
+\begin{document}
+
+\maketitle
+\section{Introduction and Motivation}
+
+Due to a myriad of considerations, the realm of medical data remains woefully underexplored by modern methods of statistics and machine learning. There are, of course, many times of biomedical, bioinformatic, genetic, etc. data that have been examined quite extensively in the literature; what interests us in this particular article is medical data recorded by hospitals and physicians for use in practice. Such data may include physiological measurements, notes by physicians, drug intake, surgical outcomes, and more.
+
+The most prominent barrier against entry is the understandably major privacy considerations involved with such data.
+
+\begin{thebibliography}{9}
+
+\bibitem{tsirelson85}
+B. S. Tsirelson, “Quantum analogs of the Bell inequalities. The case of two spatially separated domains”,
+J. Math. Sci. 36(3), 557–570 (1987). Translated from Russian: Zapiski LOMI 142, 174-194 (1985).
+
+\bibitem{resume}
+A. Grothendieck, “R´esum´e de la th´eorie m´etrique des produits tensoriels topologiques” (French), Bol. Soc.
+Mat. Sao Paulo 8, 1–79 (1953).
+
+\bibitem{GT}
+G. Pisier, "Grothendieck's theorem, past and present", arXiv.
+
+\end{thebibliography}
+
+\end{document}
+

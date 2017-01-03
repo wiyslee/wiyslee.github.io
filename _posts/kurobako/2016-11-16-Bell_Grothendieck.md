@@ -3,6 +3,7 @@ layout: post
 categories: kurobako
 author: kurochan
 title: 'Tsirelson’s Theorem & Grothendieck’s Inequality'
+excerpt: We provide a summary of important results on characterizing quantum and classical correlation matrices.
 ---
 
 Bell and CHSH Inequalities
