@@ -4,6 +4,7 @@ categories: kurobako
 author: kurochan
 title: Introduction to Variational Inference
 excerpt: A concise, to-the-point introduction to variational inference, based on a tutorial by Blei et al.
+---
 
 Introduction
 ============
