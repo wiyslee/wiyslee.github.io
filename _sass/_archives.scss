@@ -57,7 +57,7 @@
 
   /* post category */
   .category {
-    @include font-size(20, no);
+    @include font-size(16, no);
     display: inline;
   }
 }
