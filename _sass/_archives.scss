@@ -42,7 +42,7 @@
 
   /* post excerpt */
   .excerpt {
-    display: inline;
+    display: block;
     float: none;
     @include font-size(14, no, 16);
 
