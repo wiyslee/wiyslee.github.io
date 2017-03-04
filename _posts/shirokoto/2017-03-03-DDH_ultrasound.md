@@ -13,14 +13,15 @@ Let us start by looking at the <b>acetabulum</b> itself. The acetabulum forms th
 <figure class = "half">
     <img src = "/shirokoto/acetabulum.png">
     <img src = "/shirokoto/acetabulum_color.png">
-    <figcaption>The acetabulum with and without color indicators. Blue = Ilium; Green = Ischium; Red = Pubis; Purple = Triradiate cartilage</figcaption>
+    <figcaption>The acetabulum, with and without color indicators. Blue = Ilium; Green = Ischium; Red = Pubis; Purple = Triradiate cartilage</figcaption>
 </figure>
 
 The circle region above delineates the socket and in it, the femoral head is (ideally) snugly head in place. Here there is a non-osseous player that helps with the attachment - the <b>labrum</b>. The labrum is a circular ring of cartilage that attaches to the acetabulum, essentially creating a soft lining for the edge of the socket. (It is often associated with tears, but that is a story for another day.)
 
-<figure>
+<figure class = "half">
     <img src = "/shirokoto/hip_joint.png">
-    <figcaption>The hip joint itself. Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</figcaption>
+    <img src = "/shirokoto/hip_joint_color.png">
+    <figcaption>The hip joint itself, with and without color indicators. Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</figcaption>
 </figure>
 
 But what happens in DDH? The socket is too shallow 
