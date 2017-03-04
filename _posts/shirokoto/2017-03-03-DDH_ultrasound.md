@@ -26,11 +26,21 @@ The circle region above delineates the socket and in it, the femoral head is (id
     <br>Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</center></figcaption>
 </figure>
 
-But what happens in DDH? The socket is too shallow for proper placement of the femur, causing an increased propensity toward hip subluxation and dislocation. For infants suspected of having DDH (either from physical exam or a combination of risk factors), an ultrasound can be performed to assess the hip joint. The ultrasound is taken in the coronal view, which is the same view as the images above. One can see that the images below are equivalent to the above view with a 90 degree counter-clockwise rotation.
+But what happens in DDH? The socket is too shallow for proper placement of the femur, causing an increased propensity toward hip subluxation and dislocation. For infants suspected of having DDH (either from physical exam or high risk factors), an <b>ultrasound</b> can be performed to assess the hip joint. The ultrasound is taken in the coronal view, which is the same view as the images above. One can see that the images below are equivalent to the above view with a 90 degree counter-clockwise rotation.
 
 <figure class = "half">
     <img src = "/shirokoto/ultrasound.png">
     <img src = "/shirokoto/ultrasound_color.png">
     <figcaption><center>The anatomy of the ultrasound, with and without color indicators. 
     <br>Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</center></figcaption>
+</figure>
+
+From this ultrasound, we then can measure the depth of the socket by measuring the angle that the ilium makes as it turns to make the acetabular roof. The larger this angle is, the deeper the socket is for the femoral head to sit in, creating a more stable hip joint. We call this the <b>alpha angle</b> and a normal hip has an alpha angle of <b>greater than 60 degrees</b>.
+
+The other angle that we measure is between the labrum and the ilium, which we call the <b>beta angle</b>. We look for an angle <b>less than 55 degrees</b> 
+
+<figure class = "half">
+    <img src = "/shirokoto/ultrasound_alpha.png">
+    <img src = "/shirokoto/ultrasound_beta.png">
+    <figcaption><center>The alpha and beta angles measured </center></figcaption>
 </figure>
