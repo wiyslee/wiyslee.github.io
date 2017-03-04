@@ -26,4 +26,11 @@ The circle region above delineates the socket and in it, the femoral head is (id
     <br>Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</center></figcaption>
 </figure>
 
-But what happens in DDH? The socket is too shallow 
+But what happens in DDH? The socket is too shallow for proper placement of the femur, causing an increased propensity toward hip subluxation and dislocation. For infants suspected of having DDH (either from physical exam or a combination of risk factors), an ultrasound can be performed to assess the hip joint. The ultrasound is taken in the coronal view, which is the same view as the images above. One can see that the images below are equivalent to the above view with a 90 degree counter-clockwise rotation.
+
+<figure class = "half">
+    <img src = "/shirokoto/ultrasound.png">
+    <img src = "/shirokoto/ultrasound_color.png">
+    <figcaption><center>The anatomy of the ultrasound, with and without color indicators. 
+    <br>Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</center></figcaption>
+</figure>
