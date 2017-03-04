@@ -22,7 +22,8 @@ The circle region above delineates the socket and in it, the femoral head is (id
 <figure class = "half">
     <img src = "/shirokoto/hip_joint.png">
     <img src = "/shirokoto/hip_joint_color.png">
-    <figcaption>The hip joint itself, with and without color indicators. Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</figcaption>
+    <figcaption><center>The hip joint itself, with and without color indicators. 
+    <br>Blue = Ilium; Green = Ischium; Purple = Triradiate cartilage; Yellow = Labrum</center></figcaption>
 </figure>
 
 But what happens in DDH? The socket is too shallow 
