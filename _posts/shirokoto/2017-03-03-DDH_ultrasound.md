@@ -37,7 +37,7 @@ But what happens in DDH? The socket is too shallow for proper placement of the f
 
 From this ultrasound, we then can measure the depth of the socket by measuring the angle that the ilium makes as it turns to make the acetabular roof. The larger this angle is, the deeper the socket is for the femoral head to sit in, creating a more stable hip joint. We call this the <b>alpha angle</b> and a normal hip has an alpha angle of <b>greater than 60 degrees</b>.
 
-The other angle that we measure is between the labrum and the ilium, which we call the <b>beta angle</b>. This angle represents the amount of the head that lies outside or lateral to the socket. We look for an angle <b>less than 55 degrees</b> in a normal hip.
+The other angle that we measure is between the labrum and the ilium, which we call the <b>beta angle</b>. This angle represents the amount of the head that lies outside or lateral to the socket. We look for a beta angle <b>less than 55 degrees</b> in a normal hip.
 
 <figure class = "half">
     <img src = "/shirokoto/ultrasound_alpha.png">
